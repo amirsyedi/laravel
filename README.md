@@ -12,3 +12,5 @@ email = admin@test.com
 pass = admin123
 
 4. for user can create data from the system.
+
+5. create task/todo is incomplete due to internship job and limited time to learn new framework.
